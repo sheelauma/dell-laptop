@@ -1,5 +1,8 @@
+
+
+
 hi ra hp and dell
-aws python linux
+
 shell scripting
 c shell
 
@@ -7,3 +10,5 @@ c shell
 java .net oracle 
 
 git commit
+
+light weight:wq!
